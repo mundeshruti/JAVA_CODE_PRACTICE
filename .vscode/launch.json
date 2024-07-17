@@ -2,6 +2,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Remove_duplicate_element",
+            "request": "launch",
+            "mainClass": "Array.Remove_duplicate_element",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Mid_arr_element",
+            "request": "launch",
+            "mainClass": "Array.Mid_arr_element",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Min_Arr_element",
+            "request": "launch",
+            "mainClass": "Array.Min_Arr_element",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Max_Arr_element",
+            "request": "launch",
+            "mainClass": "Array.Max_Arr_element",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Even_Odd_Element",
+            "request": "launch",
+            "mainClass": "Array.Even_Odd_Element",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Avg_Array_element",
+            "request": "launch",
+            "mainClass": "Array.Avg_Array_element",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Sum_Array",
+            "request": "launch",
+            "mainClass": "Array.Sum_Array",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Sort_Array",
+            "request": "launch",
+            "mainClass": "Array.Sort_Array",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
             "name": "left_pyramid",
             "request": "launch",
             "mainClass": "left_pyramid",
