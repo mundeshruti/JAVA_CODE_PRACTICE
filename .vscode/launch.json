@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "left_pyramid",
+            "request": "launch",
+            "mainClass": "left_pyramid",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicateChar",
+            "request": "launch",
+            "mainClass": "String.RemoveDuplicateChar",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Duplicate_char_Remove",
+            "request": "launch",
+            "mainClass": "String.Duplicate_char_Remove",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Whitespace_remove",
+            "request": "launch",
+            "mainClass": "String.Whitespace_remove",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
             "name": "Swap_String",
             "request": "launch",
             "mainClass": "String.Swap_String",

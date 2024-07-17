@@ -1,0 +1,187 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Palidrome_pyramid",
+            "request": "launch",
+            "mainClass": "Number_Pattern.Palidrome_pyramid",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "Palidrome_triangle",
+            "request": "launch",
+            "mainClass": "Number_Pattern.Palidrome_triangle",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "DiamondNumberPattern",
+            "request": "launch",
+            "mainClass": "Number_Pattern.DiamondNumberPattern",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "Number_triangle",
+            "request": "launch",
+            "mainClass": "Number_Pattern.Number_triangle",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "left_to_right_seq",
+            "request": "launch",
+            "mainClass": "Number_Pattern.left_to_right_seq",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "increase_row",
+            "request": "launch",
+            "mainClass": "Number_Pattern.increase_row",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "increase_Seq_num",
+            "request": "launch",
+            "mainClass": "Number_Pattern.increase_Seq_num",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "leftsidenum",
+            "request": "launch",
+            "mainClass": "Number_Pattern.leftsidenum",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "S_Pattern",
+            "request": "launch",
+            "mainClass": "S_Pattern",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "K_Pattern",
+            "request": "launch",
+            "mainClass": "K_Pattern",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "left_pyramid",
+            "request": "launch",
+            "mainClass": "left_pyramid",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "Diamond_pyramid",
+            "request": "launch",
+            "mainClass": "Diamond_pyramid",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "Diamong_pattern",
+            "request": "launch",
+            "mainClass": "Diamong_pattern",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "right_triangle",
+            "request": "launch",
+            "mainClass": "right_triangle",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "Squarefilled",
+            "request": "launch",
+            "mainClass": "Squarefilled",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_pyramid",
+            "request": "launch",
+            "mainClass": "Reverse_pyramid",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "Pyramid",
+            "request": "launch",
+            "mainClass": "Pyramid",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_Triangle",
+            "request": "launch",
+            "mainClass": "Reverse_Triangle",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "Triangle",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_left_half_py",
+            "request": "launch",
+            "mainClass": "Reverse_left_half_py",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "left_half_py",
+            "request": "launch",
+            "mainClass": "left_half_py",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "square",
+            "request": "launch",
+            "mainClass": "square",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "Startriangle",
+            "request": "launch",
+            "mainClass": "Startriangle",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "dowmstartri",
+            "request": "launch",
+            "mainClass": "dowmstartri",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "triangle",
+            "request": "launch",
+            "mainClass": "triangle",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {
+            "type": "java",
+            "name": "leftdowntri",
+            "request": "launch",
+            "mainClass": "leftdowntri",
+            "projectName": "Java_Patterns_e1ccce16"
+        },
+        {}
+    ]
+}
