@@ -1,0 +1,103 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Swap_String",
+            "request": "launch",
+            "mainClass": "String.Swap_String",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Anagram_String",
+            "request": "launch",
+            "mainClass": "String.Anagram_String",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Vowels_Consonent",
+            "request": "launch",
+            "mainClass": "String.Vowels_Consonent",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_sentence",
+            "request": "launch",
+            "mainClass": "String.Reverse_sentence",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Palidrome_String",
+            "request": "launch",
+            "mainClass": "String.Palidrome_String",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_string",
+            "request": "launch",
+            "mainClass": "String.Reverse_string",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Swap_num",
+            "request": "launch",
+            "mainClass": "Number.Swap_num",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Palidrome",
+            "request": "launch",
+            "mainClass": "Number.Palidrome",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_Number",
+            "request": "launch",
+            "mainClass": "Number.Reverse_Number",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong_number",
+            "request": "launch",
+            "mainClass": "Number.Armstrong_number",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Sum_of_digit",
+            "request": "launch",
+            "mainClass": "Number.Sum_of_digit",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci_series",
+            "request": "launch",
+            "mainClass": "Number.Fibonacci_series",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Number.Factorial",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Number.Prime",
+            "projectName": "JAVA_CODE_PRACTICE_bafba3fa"
+        },
+        {}
+    ]
+}
