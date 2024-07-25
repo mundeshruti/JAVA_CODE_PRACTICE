@@ -6,5 +6,4 @@ public class Whitespace_remove {
         String r = s.replaceAll(" ", "");
         System.out.println(r);
     }
-
 }
