@@ -5,10 +5,10 @@ public class Reverse_sentence {
         String s = "My Name is Shrutika";
         String r = "";
         String rev[] = s.split(" ");
-        for (int i = 0; i < r.length(); i++) {
-            s = rev[i] + r;
+        for (int i = 0; i < rev.length; i++) {
+            r = rev[i] + " " + r;
         }
-        System.out.println(s);
+        System.out.println(r);
 
     }
 
